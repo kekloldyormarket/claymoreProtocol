@@ -16,7 +16,7 @@
     "dev": "NODE_OPTIONS='--inspect' next dev",
     "watch": "tsc --watch --project tsconfig-build.json",
     "build-lib": "tsc --project tsconfig-build.json",
-    "build": "echo lol",
+    "build": "next build",
     "start": "next start",
     "precommit": "git-format-staged -f 'prettier --ignore-unknown --stdin --stdin-filepath \"{}\"' ."
   },
