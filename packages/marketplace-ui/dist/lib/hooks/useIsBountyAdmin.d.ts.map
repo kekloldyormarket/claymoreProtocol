@@ -1,0 +1,1 @@
+{"version":3,"file":"useIsBountyAdmin.d.ts","sourceRoot":"","sources":["../../../src/hooks/useIsBountyAdmin.tsx"],"names":[],"mappings":"AAAA,OAAO,EAAE,SAAS,EAAE,MAAM,iBAAiB,CAAC;AAO5C,wBAAgB,gBAAgB,CAC9B,MAAM,EAAE,SAAS,GAAG,SAAS,EAC7B,eAAe,EAAE,SAAS,GAAG,SAAS,GACrC;IAAE,OAAO,EAAE,OAAO,CAAC;IAAC,OAAO,EAAE,OAAO,CAAC;IAAC,QAAQ,EAAE,OAAO,CAAA;CAAE,CAsC3D"}

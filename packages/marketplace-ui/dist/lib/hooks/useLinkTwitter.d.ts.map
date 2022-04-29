@@ -1,0 +1,1 @@
+{"version":3,"file":"useLinkTwitter.d.ts","sourceRoot":"","sources":["../../../src/hooks/useLinkTwitter.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,WAAW,EAAE,MAAM,UAAU,CAAC;AAGhD,eAAO,MAAM,YAAY,EAAE,WAK1B,CAAC;AAaF,eAAO,MAAM,KAAK,SAA4B,CAAC;AAE/C,wBAAgB,cAAc,CAAC,WAAW,GAAE,MAAiB,GAAG;IAC9D,WAAW,EAAE,MAAM,CAAC;IACpB,OAAO,EAAE,MAAM,IAAI,CAAC;CACrB,CAmBA"}
