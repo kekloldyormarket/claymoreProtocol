@@ -1,3 +1,149 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9e9e9224c06075ed090d194d22800d35444b330d50ed940308bd043193deef13
-size 6051
+{
+    "polyfillFiles": [
+      "static/chunks/polyfills-5cd94c89d3acac5f.js"
+    ],
+    "devFiles": [],
+    "ampDevFiles": [],
+    "lowPriorityFiles": [
+      "static/uEzY04uTPeQkUwqzCoSHJ/_buildManifest.js",
+      "static/uEzY04uTPeQkUwqzCoSHJ/_ssgManifest.js",
+      "static/uEzY04uTPeQkUwqzCoSHJ/_middlewareManifest.js"
+    ],
+    "pages": {
+      "/": [
+        "static/chunks/webpack-1a6023fe2913a345.js",
+        "static/chunks/framework-ff78ea7723f6d91e.js",
+        "static/chunks/main-5bf8c240bbed74bf.js",
+        "static/chunks/pages/index-123c7a7696f5eec0.js"
+      ],
+      "/_app": [
+        "static/chunks/webpack-1a6023fe2913a345.js",
+        "static/chunks/framework-ff78ea7723f6d91e.js",
+        "static/chunks/main-5bf8c240bbed74bf.js",
+        "static/css/9756f84b5e77489d.css",
+        "static/chunks/pages/_app-ca9c8b6e3c9a36aa.js"
+      ],
+      "/_error": [
+        "static/chunks/webpack-1a6023fe2913a345.js",
+        "static/chunks/framework-ff78ea7723f6d91e.js",
+        "static/chunks/main-5bf8c240bbed74bf.js",
+        "static/chunks/pages/_error-5a714c45c50a8db4.js"
+      ],
+      "/bounties": [
+        "static/chunks/webpack-1a6023fe2913a345.js",
+        "static/chunks/framework-ff78ea7723f6d91e.js",
+        "static/chunks/main-5bf8c240bbed74bf.js",
+        "static/chunks/pages/bounties-93f94a25217b6044.js"
+      ],
+      "/bounties/[mintKey]": [
+        "static/chunks/webpack-1a6023fe2913a345.js",
+        "static/chunks/framework-ff78ea7723f6d91e.js",
+        "static/chunks/main-5bf8c240bbed74bf.js",
+        "static/chunks/pages/bounties/[mintKey]-f0d24afb3f76258f.js"
+      ],
+      "/bounties/[mintKey]/edit": [
+        "static/chunks/webpack-1a6023fe2913a345.js",
+        "static/chunks/framework-ff78ea7723f6d91e.js",
+        "static/chunks/main-5bf8c240bbed74bf.js",
+        "static/chunks/pages/bounties/[mintKey]/edit-9a4847df8697ae88.js"
+      ],
+      "/launchpad": [
+        "static/chunks/webpack-1a6023fe2913a345.js",
+        "static/chunks/framework-ff78ea7723f6d91e.js",
+        "static/chunks/main-5bf8c240bbed74bf.js",
+        "static/chunks/577-d3d314685124060b.js",
+        "static/chunks/pages/launchpad-308910c4c3f05e9a.js"
+      ],
+      "/launchpad/bounties/new": [
+        "static/chunks/webpack-1a6023fe2913a345.js",
+        "static/chunks/framework-ff78ea7723f6d91e.js",
+        "static/chunks/main-5bf8c240bbed74bf.js",
+        "static/chunks/pages/launchpad/bounties/new-491ce3b40420b3f2.js"
+      ],
+      "/launchpad/create": [
+        "static/chunks/webpack-1a6023fe2913a345.js",
+        "static/chunks/framework-ff78ea7723f6d91e.js",
+        "static/chunks/main-5bf8c240bbed74bf.js",
+        "static/chunks/577-d3d314685124060b.js",
+        "static/chunks/pages/launchpad/create-a81de0abdd763f3b.js"
+      ],
+      "/launchpad/fully-managed/new": [
+        "static/chunks/webpack-1a6023fe2913a345.js",
+        "static/chunks/framework-ff78ea7723f6d91e.js",
+        "static/chunks/main-5bf8c240bbed74bf.js",
+        "static/chunks/pages/launchpad/fully-managed/new-56b28172fdcf8ba0.js"
+      ],
+      "/launchpad/lbcs/new": [
+        "static/chunks/webpack-1a6023fe2913a345.js",
+        "static/chunks/framework-ff78ea7723f6d91e.js",
+        "static/chunks/main-5bf8c240bbed74bf.js",
+        "static/chunks/pages/launchpad/lbcs/new-12b2d00cb71f20b3.js"
+      ],
+      "/launchpad/manual/new": [
+        "static/chunks/webpack-1a6023fe2913a345.js",
+        "static/chunks/framework-ff78ea7723f6d91e.js",
+        "static/chunks/main-5bf8c240bbed74bf.js",
+        "static/chunks/pages/launchpad/manual/new-5817b41fd8c7a355.js"
+      ],
+      "/launchpad/metadata": [
+        "static/chunks/webpack-1a6023fe2913a345.js",
+        "static/chunks/framework-ff78ea7723f6d91e.js",
+        "static/chunks/main-5bf8c240bbed74bf.js",
+        "static/chunks/pages/launchpad/metadata-e9bd1f9e8dc3f0ea.js"
+      ],
+      "/launchpad/sales/new": [
+        "static/chunks/webpack-1a6023fe2913a345.js",
+        "static/chunks/framework-ff78ea7723f6d91e.js",
+        "static/chunks/main-5bf8c240bbed74bf.js",
+        "static/chunks/pages/launchpad/sales/new-dc85762d8b5dcbbe.js"
+      ],
+      "/launchpad/sell": [
+        "static/chunks/webpack-1a6023fe2913a345.js",
+        "static/chunks/framework-ff78ea7723f6d91e.js",
+        "static/chunks/main-5bf8c240bbed74bf.js",
+        "static/chunks/577-d3d314685124060b.js",
+        "static/chunks/pages/launchpad/sell-bd12eec8cdd25451.js"
+      ],
+      "/lbcs/mint/[candyMachineId]": [
+        "static/chunks/webpack-1a6023fe2913a345.js",
+        "static/chunks/framework-ff78ea7723f6d91e.js",
+        "static/chunks/main-5bf8c240bbed74bf.js",
+        "static/chunks/9d4371a4-8cddaf13d308bb9a.js",
+        "static/chunks/f9e9c609-1d0e77c2e6524d74.js",
+        "static/chunks/685717d0-7a5c1e6d58b85819.js",
+        "static/chunks/579-543e7df16653301d.js",
+        "static/chunks/pages/lbcs/mint/[candyMachineId]-61e0f383b981883c.js"
+      ],
+      "/lbcs/token-offering/[mintKey]": [
+        "static/chunks/webpack-1a6023fe2913a345.js",
+        "static/chunks/framework-ff78ea7723f6d91e.js",
+        "static/chunks/main-5bf8c240bbed74bf.js",
+        "static/chunks/pages/lbcs/token-offering/[mintKey]-fb103e134d4479f5.js"
+      ],
+      "/sales/[mintKey]": [
+        "static/chunks/webpack-1a6023fe2913a345.js",
+        "static/chunks/framework-ff78ea7723f6d91e.js",
+        "static/chunks/main-5bf8c240bbed74bf.js",
+        "static/chunks/pages/sales/[mintKey]-c231192521d4a116.js"
+      ],
+      "/swap/[mintKey]": [
+        "static/chunks/webpack-1a6023fe2913a345.js",
+        "static/chunks/framework-ff78ea7723f6d91e.js",
+        "static/chunks/main-5bf8c240bbed74bf.js",
+        "static/chunks/pages/swap/[mintKey]-8e301b7532792b2d.js"
+      ],
+      "/swap/[mintKey]/[fanoutKey]": [
+        "static/chunks/webpack-1a6023fe2913a345.js",
+        "static/chunks/framework-ff78ea7723f6d91e.js",
+        "static/chunks/main-5bf8c240bbed74bf.js",
+        "static/chunks/pages/swap/[mintKey]/[fanoutKey]-3a094b1d3a507a42.js"
+      ],
+      "/token-offering/[mintKey]": [
+        "static/chunks/webpack-1a6023fe2913a345.js",
+        "static/chunks/framework-ff78ea7723f6d91e.js",
+        "static/chunks/main-5bf8c240bbed74bf.js",
+        "static/chunks/pages/token-offering/[mintKey]-5110f01fe2827415.js"
+      ]
+    },
+    "ampFirstPages": []
+  }

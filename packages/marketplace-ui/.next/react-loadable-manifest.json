@@ -1,3 +1,30 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:34e2a604c0b4059c1cf06dc2956decbb624d88516c8a47b896d01dfc9319c91f
-size 966
+{
+    "../node_modules/@solana/wallet-adapter-blocto/lib/esm/adapter.mjs -> @blocto/sdk": {
+      "id": 30277,
+      "files": [
+        "static/chunks/b6ba58e6.6960ce950c3b37f7.js"
+      ]
+    },
+    "../node_modules/@solana/wallet-adapter-ledger/lib/esm/adapter.mjs -> @ledgerhq/hw-transport-webhid": {
+      "id": 16553,
+      "files": [
+        "static/chunks/553.667ab88cd390efc6.js"
+      ]
+    },
+    "../node_modules/@solana/wallet-adapter-sollet/lib/esm/base.mjs -> @project-serum/sol-wallet-adapter": {
+      "id": 14734,
+      "files": [
+        "static/chunks/5b74ce2a.9e98fdcf44722dd2.js",
+        "static/chunks/654.e917d5e5f08020aa.js"
+      ]
+    },
+    "../node_modules/@solana/wallet-adapter-torus/lib/esm/adapter.mjs -> @toruslabs/solana-embed": {
+      "id": 52221,
+      "files": [
+        "static/chunks/01faf37a.e30b4c94680a8fb5.js",
+        "static/chunks/2edb282b.9e1cce5842787609.js",
+        "static/chunks/869.b5dd4da73f9fb2af.js",
+        "static/chunks/558.5ea07b3ae161da31.js"
+      ]
+    }
+  }
